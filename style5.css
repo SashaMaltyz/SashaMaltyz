@@ -1,0 +1,36 @@
+body{
+ background-color: #FAF8B6;
+  font-family: FreeMono, monospace;
+}
+ul{
+  background-color: #AA6BED;
+  list-style: circle;
+  margin: 15px 275px 15px 15px;
+  border-radius: 20px;
+}
+ul li{
+  padding: 5px;
+ color: #44009E; 
+}
+ol{
+  
+  background-color: #AA6BED;
+  list-style: circle;
+  margin: 15px 275px 15px 15px;
+  border-radius: 20px;
+}
+ol li{
+  padding: 5px;
+ color: #44009E; 
+background-color: #AA6BED;
+  list-style: circle;
+  
+  border-radius: 20px;
+}
+ul li{
+  padding: 5px;
+ color: #44009E; 
+}
+p3{
+  color: #44009E;
+}
