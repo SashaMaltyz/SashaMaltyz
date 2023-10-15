@@ -1,0 +1,15 @@
+body {
+  font-family: FreeMono, monospace;
+  color: #333;
+  line-height: 1.8;
+  background-color:#FAF8B6;
+}
+ul{
+  background-color: #AA6BED;
+  list-style: circle;
+  margin: 15px 275px 15px 15px;
+  border-radius: 20px;
+}
+ul li{
+  color: #44009E;
+}
